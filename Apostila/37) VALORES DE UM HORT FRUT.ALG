@@ -13,7 +13,7 @@ Inicio
    // Seção de Comandos, procedimento, funções, operadores, etc...
    Escreval("Quantos quilos de morango irá comprar: ")
    leia(morango)
-   Escreval("Quantos quilos de maca irá comprar: ")
+   Escreval("Quantos quilos de maçã irá comprar: ")
    leia(maca)
    escreval("------------------------------------------------------------------")
 
